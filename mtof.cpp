@@ -6,7 +6,7 @@
 */
 
 #include "Arduino.h"
-#include "Math.h"
+#include "math.h"
 #include "mtof.h"
 
 double base_frequency = 440.0;
